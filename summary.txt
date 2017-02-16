@@ -1,0 +1,73 @@
+The number of tv series is 22
+The number of tweets related to Game of Thrones is 60
+The number of tweets related to Breaking Bad is 50
+The number of tweets related to Rick and Morty is 58
+The number of tweets related to Sherlock is 40
+The number of tweets related to True Detective is 51
+The number of tweets related to Westworld is 60
+The number of tweets related to Fargo is 56
+The number of tweets related to TVF Pitchers is 10
+The number of tweets related to Stranger Things is 60
+The number of tweets related to Narcos is 31
+The number of tweets related to The Crown is 60
+The number of tweets related to The Simpsons is 60
+The number of tweets related to This Is Us is 60
+The number of tweets related to Daredevil is 60
+The number of tweets related to Dexter is 60
+The number of tweets related to Better Call Saul is 60
+The number of tweets related to Doctor Who is 60
+The number of tweets related to Shameless is 60
+The number of tweets related to Vikings is 30
+The number of tweets related to Suits is 60
+The number of tweets related to Hannibal is 45
+The number of tweets related to The Walking Dead is 60
+The number of common twitter handles tweets among all the tv series is 9
+The number of edges 1151
+The number of nodes 1149
+The number of clusters created 3433
+The average number of nodes in a cluster 11
+Number of postive tweets for Game of Thrones is 34
+Number of negative tweets for Game of Thrones is 15
+Number of postive tweets for Breaking Bad is 35
+Number of negative tweets for Breaking Bad is 24
+Number of postive tweets for Rick and Morty is 40
+Number of negative tweets for Rick and Morty is 24
+Number of postive tweets for Sherlock is 19
+Number of negative tweets for Sherlock is 15
+Number of postive tweets for True Detective is 27
+Number of negative tweets for True Detective is 21
+Number of postive tweets for Westworld is 27
+Number of negative tweets for Westworld is 11
+Number of postive tweets for Fargo is 45
+Number of negative tweets for Fargo is 16
+Number of postive tweets for TVF Pitchers is 13
+Number of negative tweets for TVF Pitchers is 5
+Number of postive tweets for Stranger Things is 10
+Number of negative tweets for Stranger Things is 10
+Number of postive tweets for Narcos is 13
+Number of negative tweets for Narcos is 13
+Number of postive tweets for The Crown is 43
+Number of negative tweets for The Crown is 7
+Number of postive tweets for The Simpsons is 22
+Number of negative tweets for The Simpsons is 11
+Number of postive tweets for This Is Us is 24
+Number of negative tweets for This Is Us is 20
+Number of postive tweets for Daredevil is 51
+Number of negative tweets for Daredevil is 20
+Number of postive tweets for Dexter is 43
+Number of negative tweets for Dexter is 26
+Number of postive tweets for Better Call Saul is 30
+Number of negative tweets for Better Call Saul is 12
+Number of postive tweets for Doctor Who is 41
+Number of negative tweets for Doctor Who is 16
+Number of postive tweets for Shameless is 43
+Number of negative tweets for Shameless is 31
+Number of postive tweets for Vikings is 21
+Number of negative tweets for Vikings is 12
+Number of postive tweets for Suits is 26
+Number of negative tweets for Suits is 34
+Number of postive tweets for Hannibal is 30
+Number of negative tweets for Hannibal is 9
+Number of postive tweets for The Walking Dead is 29
+Number of negative tweets for The Walking Dead is 19
+The most popular show among twitter user is Daredevil

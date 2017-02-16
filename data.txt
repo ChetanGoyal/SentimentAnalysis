@@ -1,0 +1,35 @@
+Game of Thrones|GameOfThrones|#GameofThrones
+Sherlock|Sherlock221B|#Sherlock
+BreakingBad|BreakingBad_AMC|#BreakingBad
+The Walking Dead|WalkingDead_AMC|#TWD
+American Horror Story|AHSFX|#AHSFX
+The Flash|CW_TheFlash|#TheFlash
+Arrow|CW_Arrow|#Arrow
+Stranger Things|Stranger_Things|#StrangerThings
+Shameless|SHO_Shameless|#Shameless
+Supernatural|cw_spn|#Supernatural
+The Big Bang Theory|bigbangtheory|#BigBangTheory
+Greys Anatomy|GreysABC|#GreysAnatomy
+The Vampire Diaries|cwtvd|#TVD
+Gotham|Gotham|#Gotham
+The Blacklist|NBCBlacklist|#TheBlacklist
+Suits|Suits_USA|#Suits
+Criminal Minds|CrimMinds_CBS|#CriminalMinds
+Agents of SHIELD|AgentsofSHIELD|#AgentsofSHIELD
+Mr. Robot|whoismrrobot|#MrRobot
+West World|WestworldHBO|#Westworld
+Rick and Morty|RickandMorty|#RickandMorty
+True Detective|TrueDetective|#TrueDetective
+Narcos|narcosnetflix|#Narcos
+daredevil|daredevil|#Daredevil
+Dexter|sho_dexter|#Dexter
+Fargo|FargoFx|#Fargo
+Hannibal|NBCHannibal|#Hannibal
+TVF Pitchers|TVFPitchers|#TVFpitchers
+The Simpsons|TheSimpsons|#TheSimpsons
+Mr. Bean|MrBean|mrbean
+Vikings|HistoryVikings|#Vikings
+This Is Us|NBCThisisUs|#ThisIsUs
+Doctor Who|bbcdoctorwho|#DoctorWho
+Better Call Saul|BetterCallSaul|#BetterCallSaul
+The Crown|TheCrownNetflix|#TheCrown
